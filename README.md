@@ -2,3 +2,7 @@
 'Construction.py' tests the properties of a novel example, using the functions. 
 'Extensions.py' tests combinatorial conjectures from the literature. 
 Other files store examples and measure statistics. 
+
+Conjecture-proving examples: 
+
+
