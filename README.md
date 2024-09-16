@@ -5,5 +5,5 @@ Other files store examples and measure statistics.
 
 Conjecture-proving examples: 
 
-![alt text]https://github.com/RonanD10/PhD-Research/blob/main/X%206%20rigid.png
+![alt text](https://github.com/RonanD10/PhD-Research/blob/main/X%206%20rigid.png)
 
